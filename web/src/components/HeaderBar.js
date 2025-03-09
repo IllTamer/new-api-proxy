@@ -63,7 +63,7 @@ const HeaderBar = () => {
       to: '/pricing',
     },
     {
-      text: t('关于'),
+      text: t('文档'),
       itemKey: 'about',
       to: '/about',
     },

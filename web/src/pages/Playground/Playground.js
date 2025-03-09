@@ -48,7 +48,7 @@ const Playground = () => {
   ];
 
   const [inputs, setInputs] = useState({
-    model: 'gpt-4o-mini',
+    model: 'grok-2',
     group: '',
     max_tokens: 0,
     temperature: 0,
